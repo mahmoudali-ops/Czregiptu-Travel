@@ -87,8 +87,9 @@
 }
 
 .nav-logo {
-  object-fit: cover;
-  height: 110px !important;
+    object-fit: cover;
+    height: 90% !important;
+    width: 100% !important;
 }
 
 html {
